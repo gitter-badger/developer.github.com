@@ -1,5 +1,7 @@
 # developer.github.com
 
+[![Join the chat at https://gitter.im/jbthechamp/developer.github.com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jbthechamp/developer.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a GitHub API resource built with [nanoc][nanoc].
 
 All submissions are welcome. To submit a change, fork this repo, commit your changes, and send us a [pull request](http://help.github.com/send-pull-requests/).
